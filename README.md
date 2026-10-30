@@ -3,5 +3,5 @@
 -  Decent python skills, growing C++ skills, paid to write c# and I use cuda begrudgingly when I need my code to be faster
 -  Obsessive eye for errors
 -  Drop me an email at djcbish@gmail.com or a dm (my handle is the same almost everywhere)
--  Check out my portfolio [here](https://github.com/Dodo-alone)
+-  Check out my portfolio [here](https://dodo-alone.github.io/Portfolio/)
 
